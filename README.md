@@ -9,7 +9,7 @@ I'm a passionate **Full Stack Developer** focused on building clean, functional,
 - **Frontend:** React, TypeScript, Tailwind CSS, Figma (UI/UX design)  
 - **Backend:** ASP.NET Core, SQL Server, Node.js (in progress)  
 - **DevOps & Tools:** Docker, Git, GitHub, CI/CD (learning)  
-- **Practices:** Clean Code, SOLID Principles, Microservices (learning)  
+- **Practices:** Clean Code, SOLID Principles, Microservices (learning), Design Patterns 
 
 ---
 
